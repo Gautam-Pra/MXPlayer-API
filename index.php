@@ -1,6 +1,6 @@
 <?php
 
-// © Avishkar Patil
+// © Gautam Pra
 // Change Output According Your Requirements
 // DO NOT REMOVE Credit
 // DON'T ASK FOR PLAYER CODES HERE ALL THINGS CREATE IT
@@ -153,7 +153,7 @@ else{
   $ex= array("error" => "Something went wrong, Check URL" );
   $err =json_encode($ex);
  
- // © Avishkar Patil
+ // © Gautam Pra
 
   echo $err;
 }
